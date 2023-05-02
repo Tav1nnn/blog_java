@@ -1,0 +1,5 @@
+DAOs\UserDao.class
+entities\User.class
+servlets\Cadastro.class
+factories\ConnectionFactory.class
+models\UserModel.class
